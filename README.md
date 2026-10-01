@@ -1,6 +1,8 @@
 # ComfyDrop 1.1
 
 Browse, download, and delete ComfyUI outputs on a RunPod network volume from Windows, even while your pod is stopped.
+Executable download link:
+https://github.com/thaw1366/ComfyDrop/releases/download/v1.1.0/ComfyDrop.exe
 
 ## Update your existing installation
 
