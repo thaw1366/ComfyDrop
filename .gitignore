@@ -1,0 +1,21 @@
+# Private settings and credentials
+settings.json
+network-profile.json
+*.json.new
+.env
+.env.*
+*.pem
+*.key
+
+# Local work and downloads
+work/
+Downloads/
+*.log
+.update-*/
+
+# Built programs belong in Releases
+*.exe
+*.pdb
+*.zip
+bin/
+obj/
